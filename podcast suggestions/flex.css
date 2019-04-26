@@ -1,0 +1,14 @@
+.htmlcssflex {
+    display: flex;
+    flex-direction: column;
+}
+
+.htmlcssflex > li {
+    background-color: red;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+
+}

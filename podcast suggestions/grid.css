@@ -1,0 +1,29 @@
+.categories {
+    display: grid;
+    grid-template-columns: 400px 400px;
+    grid-template-rows: 100px 100px;
+    grid-gap: 15px;
+
+}
+
+.htmlcss {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+}
+
+.programming{
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+}
+
+.prodev {
+    grid-column: 1/2;
+    grid-row: 2 / 3;
+}
+
+.books {
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+
+

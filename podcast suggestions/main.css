@@ -1,0 +1,31 @@
+body {
+    background-color: palegoldenrod
+}
+
+
+header {
+    background-color: white;
+    border-radius: 3px;
+    text-align: center;
+     }
+
+
+
+
+.categories > h2 {
+    background-color: white;
+
+
+}
+
+.categories > ul {
+    list-style: none;
+
+}
+
+footer {
+
+}
+
+
+   
